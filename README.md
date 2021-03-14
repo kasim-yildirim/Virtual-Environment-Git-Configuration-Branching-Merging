@@ -1,4 +1,5 @@
 # Virtual-Environment-Git-Configuration-Branching-Merging
+<img align="right" alt="PNG" src="https://github.com/kasim-yildirim/Virtual-Environment-Git-Configuration-Branching-Merging/blob/main/Git%20logo.png" width="600" height="200" />
 
 Dosya İçeriği;
  - Virtual Enviorenment
